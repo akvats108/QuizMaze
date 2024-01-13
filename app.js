@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question: "I'm taken from a mine and shut up in a wooden case from wich i am never released , and yet i am used by almost every person. What am I?",
+        question: "I'm taken from a mine and shut up in a wooden case from which i am never released , and yet i am used by almost every person. What am I?",
         answers: [
             {text: "Gold", correct: false},
             {text: "Diamond", correct: false},
